@@ -1,0 +1,36 @@
+body {
+  border: 2px solid black;
+  width: 900px;
+  height: 1000px;
+  padding: 20px;
+  margin-left: 250px;
+
+}
+
+.lastIndex {
+  margin-left: 680px;
+}
+
+.selector {
+  position: absolute;
+  margin-top: 40px;
+}
+
+.text {
+  margin-left: 90px;
+}
+
+.mybutton {
+  position: absolute;
+  left: -20px;
+  bottom: 27px;
+  padding: 1px;
+
+}
+
+.seq {
+  padding: 10px;
+  position: relative;
+  left: 2px;
+
+}
